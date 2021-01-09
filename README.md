@@ -1,2 +1,2 @@
 # hello-world
-github learning mode repository
+Github learning mode repository

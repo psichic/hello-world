@@ -1,3 +1,2 @@
 # hello-world
-Github learning mode repository
-This is math $a=b^i$
+My Github learning mode repository. Some math $e^{i\pi}+1=0$

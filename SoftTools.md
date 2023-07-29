@@ -12,7 +12,7 @@ Notes on some software tools I have used over time. All Free. See also the secti
 
 # Dos Tips
 
-- The `pushd` trick: `dl.cmd` : `pushd C:\Users\xyz\Downloads` : unlike `cd` the `/d` switch is not required; Recall: `popd`
+- The `pushd` trick: `dl.cmd` : `pushd C:\Users\xyz\Downloads` : unlike `cd` the `/d` switch is not required; Recall prev. loc.: `popd`
 
 # External Listings
 

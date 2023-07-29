@@ -1,5 +1,11 @@
 # Software Tools
-Notes on some software tools I have used over time. All Free.
+
+[TOC]
+
+Notes on some software tools I have used over time. All Free. See also:
+
+- [Awesome Lists Topics](https://github.com/topics/awesome)
+- [The Original Awesome List, I think](https://github.com/sindresorhus/awesome)
 
 # Personal Databases
 

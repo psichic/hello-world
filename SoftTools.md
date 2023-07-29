@@ -2,6 +2,10 @@
 
 Notes on some software tools I have used over time. All Free. See also the section on [External Lists](#external-listings)
 
+###### Table of contents
+- [External Lists](#external-listings)
+- [Personal Databases](#personal-databases)
+
 
 
 # External Listings

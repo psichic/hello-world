@@ -1,8 +1,10 @@
 # Software Tools
 
-[TOC]
+Notes on some software tools I have used over time. All Free. See also the section on [External Lists](#external-listings)
 
-Notes on some software tools I have used over time. All Free. See also:
+
+
+# External Listings
 
 - [Awesome Lists Topics](https://github.com/topics/awesome)
 - [The Original Awesome List, I think](https://github.com/sindresorhus/awesome)

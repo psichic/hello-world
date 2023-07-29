@@ -3,15 +3,35 @@
 Notes on some software tools I have used over time. All Free. See also the section on [External Lists](#external-listings)
 
 ###### Table of contents
+
 - [External Lists](#external-listings)
+- [Pdf Manipulation](#pdf-manipulation)
 - [Personal Databases](#personal-databases)
+- [Text Expansion](#text-expansion)
 
+# Dos Tips
 
+- The `pushd` trick: `dl.cmd` : `pushd C:\Users\xyz\Downloads` : unlike `cd` the `/d` switch is not required; Recall: `popd`
 
 # External Listings
 
 - [Awesome Lists Topics](https://github.com/topics/awesome)
 - [The Original Awesome List, I think](https://github.com/sindresorhus/awesome)
+
+# PDF Manipulation
+
+- CPDF
+  ```
+	::Range out
+	cpdf 1-3,6 -o out.pdf
+	::Merge
+	cpdf -merge in1.pdf in2.pdf -o out.pdf
+	::Merge + Stamp
+	cpdf -merge in.pdf in2.pdf AND -add-text "Copyright 2021"
+	-o out.pdf
+	::Rotate
+	::cpdf -rotate-contents 90 in.pdf -o out.pdf
+	```
 
 # Personal Databases
 
@@ -47,4 +67,7 @@ Notes on some software tools I have used over time. All Free. See also the secti
 
 - To summarize:   A `Database` (`.trln` file) consist of a set of user defined `Data Types`. Each `Node` is linked to one `Data Type`. Each Data Type is associated with one or more `Fields` which can hold data of various sorts. Output associated with a node (or a set of nodes at the same level) can be constructed out of  `{*FieldVarNames*}` and ordinary text.
 
+# Text Expansion
 
+- Espanso ➡️ Beeftext
+- lintalist for tough cases. 

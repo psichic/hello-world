@@ -4,6 +4,7 @@ Notes on some software tools I have used over time. All Free. See also the secti
 
 ###### Table of contents
 
+- [Dos Tips](#dos-tips)
 - [External Lists](#external-listings)
 - [Pdf Manipulation](#pdf-manipulation)
 - [Personal Databases](#personal-databases)

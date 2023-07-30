@@ -72,7 +72,7 @@ Notes on some software tools I have used over time. All Free. See also the secti
 # Source Control
 
 - Using Sourcetree
-- Reading on Github : [Image and LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github) Deleting a commit etc.
+- Reading on Github : [fizzy image](https://fizzy.cc/use-github-repo-to-host-image), [LFS, Deleting a commit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github) 
 
 # Text Expansion
 

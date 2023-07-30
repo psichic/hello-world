@@ -8,6 +8,7 @@ Notes on some software tools I have used over time. All Free. See also the secti
 - [External Lists](#external-listings)
 - [Pdf Manipulation](#pdf-manipulation)
 - [Personal Databases](#personal-databases)
+- [Source Control](#source-control)
 - [Text Expansion](#text-expansion)
 
 # Dos Tips
@@ -67,6 +68,11 @@ Notes on some software tools I have used over time. All Free. See also the secti
   - How the data associated with a node would appear in the output is formatted in the last tab. It uses a mix of ordinary text, line breaks and field variables which are referenced as `{*VarName*}` . 
 
 - To summarize:   A `Database` (`.trln` file) consist of a set of user defined `Data Types`. Each `Node` is linked to one `Data Type`. Each Data Type is associated with one or more `Fields` which can hold data of various sorts. Output associated with a node (or a set of nodes at the same level) can be constructed out of  `{*FieldVarNames*}` and ordinary text.
+
+# Source Control
+
+- Using Sourcetree
+- Reading on Github : [Image and LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github) Deleting a commit etc.
 
 # Text Expansion
 
